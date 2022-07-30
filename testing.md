@@ -30,6 +30,6 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 | Col1 | Col2 | Col3 |
 |------|------|------|
-|      |      |      |
-|      |      |      |
-|      |      |      |
+| dfadffdfadfafdaafd     |      |      |
+|      |     dfdf |      |
+|      |      |    dfadfa  |
