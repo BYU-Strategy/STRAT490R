@@ -1,4 +1,4 @@
-# STRAT 490R - Topics In Strategic Management	
+# STRAT 490R - Topics In Strategic Management
 
 ## Strategy Analytics 3
 
@@ -8,10 +8,10 @@ by Scott Murff + Stephen Sorenson + David Hall
 
 ------------------------------------------------------------------------
 
-:spiral_calendar: Fall 2022 \
-:alarm_clock: M, W 5-6:15pm\
-:hotel: 110 TNRB \
-:writing_hand: https://github.com/BYU-Strategy/STRAT490R
+:spiral_calendar: Fall 2022
+:alarm_clock: M, W 5-6:15pm
+:hotel: 110 TNRB
+:writing_hand: <https://github.com/BYU-Strategy/STRAT490R>
 
 ------------------------------------------------------------------------
 
@@ -44,38 +44,38 @@ The course is ideal for someone who is likely to study quantitative social scien
 
 ## Course Schedule
 
-| **Date**                | **Class Topic**                   | Led By           |
-|-------------------------|-----------------------------------|------------------|
-| Monday, August 29       | Course Overview/Pipe Line Setup   | Stephen Sorensen |
-| Wednesday, August 31    | Strategy Strucutre & Case Kickoff |                  |
-| Monday, September 5     |                                   |                  |
-| Wednesday, September 7  | API                               |                  |
-| Monday, September 12    | Regression                        |                  |
-| Wednesday, September 14 | SQL/ERD                           |                  |
-| Monday, September 19    | Classification                    |                  |
-| Wednesday, September 21 | Webscraping                       |                  |
-| Monday, September 26    | Clustering                        |                  |
-| Wednesday, September 28 | NLP Sentiment Analysis            |                  |
-| Monday, October 3       | Tableau Visualization             |                  |
-| Wednesday, October 5    | Wrap Up                           |                  |
-| Monday, October 10      | Innovation analytics overview     |                  |
-| Wednesday, October 12   | Text analytics overview           |                  |
-| Monday, October 17      | Competitive landscapes I          |                  |
-| Wednesday, October 19   | Competitive landscapes II         |                  |
-| Monday, October 24      | Technology trends I               |                  |
-| Wednesday, October 26   | Technology trends II              |                  |
-| Monday, October 31      | Innovation hubs I                 |                  |
-| Wednesday, November 2   | Innovation hubs II                |                  |
-| Monday, November 7      | **R review**                      |                  |
-| Wednesday, November 9   | Regression                        |                  |
-| Monday, November 14     | 3                                 |                  |
-| Wednesday, November 16  |                                   |                  |
-| Monday, November 21     | 4                                 |                  |
-| Wednesday, November 23  | 5                                 |                  |
-| Monday, November 28     | 6                                 |                  |
-| Wednesday, November 30  | 7                                 |                  |
-| Monday, December 5      | 8                                 |                  |
-| Wednesday, December 7   | Final Remarks                     |                  |
+| **Date**                | **Class Topic**                                                                                                                                                                    | Resources | Led By           |
+|-----------------------|-------------------------------|-----------------------|------------------|
+| Monday, August 29       | Course Overview/Pipe Line Setup                                                                                                                                                    |           | Stephen Sorensen |
+| Wednesday, August 31    | Strategy Structure & Case Kickoff                                                                                                                                                  |           |                  |
+| Monday, September 5     |                                                                                                                                                                                    |           |                  |
+| Wednesday, September 7  | API                                                                                                                                                                                |           |                  |
+| Monday, September 12    | Regression                                                                                                                                                                         |           |                  |
+| Wednesday, September 14 | SQL/ERD                                                                                                                                                                            |           |                  |
+| Monday, September 19    | Classification                                                                                                                                                                     |           |                  |
+| Wednesday, September 21 | Webscraping                                                                                                                                                                        |           |                  |
+| Monday, September 26    | Clustering                                                                                                                                                                         |           |                  |
+| Wednesday, September 28 | NLP Sentiment Analysis                                                                                                                                                             |           |                  |
+| Monday, October 3       | Tableau Visualization                                                                                                                                                              |           |                  |
+| Wednesday, October 5    | Wrap Up                                                                                                                                                                            |           |                  |
+| Monday, October 10      | Innovation analytics overview                                                                                                                                                      |           | David Hall       |
+| Wednesday, October 12   | Text analytics overview                                                                                                                                                            |           |                  |
+| Monday, October 17      | Competitive landscapes I                                                                                                                                                           |           |                  |
+| Wednesday, October 19   | Competitive landscapes II                                                                                                                                                          |           |                  |
+| Monday, October 24      | Technology trends I                                                                                                                                                                |           |                  |
+| Wednesday, October 26   | Technology trends II                                                                                                                                                               |           |                  |
+| Monday, October 31      | Innovation hubs I                                                                                                                                                                  |           |                  |
+| Wednesday, November 2   | Innovation hubs II                                                                                                                                                                 |           |                  |
+| Monday, November 7      | Basic Graph Theory                                                                                                                                                                 |           | Scott Murff      |
+| Wednesday, November 9   | Working with Graphs in R                                                                                                                                                           |           |                  |
+| Monday, November 14     | Visualizing Graphs in R                                                                                                                                                            |           |                  |
+| Wednesday, November 16  | Path and Distance, Vertex Importance and Centrality                                                                                                                                |           |                  |
+| Monday, November 21     | Community Detection, Assortativity and Similarity                                                                                                                                  |           |                  |
+| Wednesday, November 23  | Hands-on Project: [US Senate Twitter Interaction Network](https://rstudio-conf-2022.github.io/people-analytics-rstats/materials/talks/7B-Project_US_Senate_Twitter_Network.html#1) |           |                  |
+| Monday, November 28     | Project Office Hours                                                                                                                                                               |           |                  |
+| Wednesday, November 30  | Project Office Hours                                                                                                                                                               |           |                  |
+| Monday, December 5      | Project Office Hours                                                                                                                                                               |           |                  |
+| Wednesday, December 7   | Student Presentations/Wrap-up                                                                                                                                                      |           |                  |
 
 ## Instructors
 
