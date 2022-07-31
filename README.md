@@ -1,4 +1,6 @@
-# STRAT 490R - Strategy Analytics
+# STRAT 490R - Topics In Strategic Management	
+
+## Strategy Analytics 3
 
 ### BYU Marriott School of Business
 
