@@ -9,8 +9,8 @@ by Scott Murff + Stephen Sorenson + David Hall
 ------------------------------------------------------------------------
 
 :spiral_calendar: Fall 2022 \
-:alarm_clock: M, W 5-6:30pm\
-:hotel: TNRB \
+:alarm_clock: M, W 5-6:15pm\
+:hotel: 110 TNRB \
 :writing_hand: https://github.com/BYU-Strategy/STRAT490R
 
 ------------------------------------------------------------------------
